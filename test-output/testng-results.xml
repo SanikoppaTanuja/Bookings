@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T23:09:06 IST" name="Default suite" finished-at="2023-11-19T23:09:42 IST" duration-ms="36198">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T23:09:06 IST" name="Default test" finished-at="2023-11-19T23:09:42 IST" duration-ms="36198">
+      <class name="testcacases.Testcase001">
+        <test-method signature="book1()[pri:0, instance:testcacases.Testcase001@5677323c]" started-at="2023-11-19T23:09:06 IST" name="book1" finished-at="2023-11-19T23:09:42 IST" duration-ms="36080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book1 -->
+      </class> <!-- testcacases.Testcase001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
